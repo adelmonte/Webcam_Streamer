@@ -2,7 +2,7 @@
 
 Python-based MJPEG webcam streaming server with web interface.
 
-I built this to check on my cat when I'm out and about.
+I built this to check in on my cat when I'm out and about. 🐱
 
 ## Features
 
